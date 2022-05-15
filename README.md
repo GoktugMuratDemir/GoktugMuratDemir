@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Göktuğ Murat Demir</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Göktuğ Murat Demir <img align="center" width="40" height="40" src="https://cdn03.ciceksepeti.com/cicek/kcm34150810-1/L/turk-bayragi-120x180-vatan-bayrak-kod109-kcm34150810-1-00126c0eee6f4d0b92b291f3c43f3950.jpg" alt="goktugmuratdemir" /></h1>
+<h3 align="center">A passionate Front-End Developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=goktugmuratdemir&label=Profile%20views&color=0e75b6&style=flat" alt="goktugmuratdemir" /> </p>
 
