@@ -6,10 +6,6 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=goktugmuratdemir" alt="goktugmuratdemir" /></a> </p>
 
 <p align="center"> 
-- 🔭 I’m currently working on [Portfolio-v1](https://github.com/GoktugMuratDemir/Portfolio-v1)
-</p>
-
-<p align="center"> 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT,REACT**
 </p>
 
