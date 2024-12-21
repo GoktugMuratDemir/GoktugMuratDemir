@@ -1,5 +1,3 @@
-![Banner](https://i.ibb.co/rdCTVrF/banner-github.webp)
-
 # 👋 Hello, I'm Göktuğ Murat Demir
 
 I am a passionate **Software Engineer** specializing in modern web technologies. I focus on creating visually stunning, scalable, and user-friendly applications. My journey includes hands-on experience with technologies like **React.js**, **Next.js**, and **TypeScript**, enabling me to deliver high-quality software solutions.
